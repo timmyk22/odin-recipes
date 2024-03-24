@@ -1,7 +1,8 @@
 
 
 p {
-    color: red;
+    font-family: fantasy;
+    color: brown;
 }
 
 h1 {
@@ -21,4 +22,17 @@ h1 {
     font-family: fantasy;
     background-color: lightgray;
     
+}
+
+h3 {
+    font-family: fantasy;
+    font-weight: bold;
+}
+
+h2 {
+    font-family: fantasy;
+}
+
+a {
+    font-family: fantasy;
 }
